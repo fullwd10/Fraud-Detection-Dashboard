@@ -1,0 +1,20 @@
+# Cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook
+*.ipynb
+.ipynb_checkpoints/
+
+# Data (too large to include - download csv file separately; database generated after running pipeline/main.py)
+input/*
+!input/.gitkeep
+db/*
+!db/.gitkeep
+
+# Trained model
+models/*
+!models/.gitkeep
