@@ -62,3 +62,4 @@ pandas, scikit-learn, XGBoost, SHAP, Streamlit, SQLite
 ## License
 
 <!-- e.g. MIT — add a LICENSE file if you want to state usage terms. -->
+MIT — see [LICENSE](LICENSE).
