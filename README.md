@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 <!-- Name/describe the dataset and where to get it. -->
 
-This project uses the [PaySim] dataset from Kaggle. Download it (here)[https://www.kaggle.com/datasets/ealaxi/paysim1] and place the CSV at:
+This project uses the [PaySim] dataset from Kaggle. Download it [here](https://www.kaggle.com/datasets/ealaxi/paysim1) and place the CSV file at:
 
 ```
 input/<filename>.csv
