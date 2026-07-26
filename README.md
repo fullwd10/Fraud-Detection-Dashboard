@@ -1,4 +1,4 @@
-# Fraud Detection
+# Fraud Detection Dashboard
 
 <!-- One or two sentences on what this project does and why. -->
 
