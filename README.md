@@ -3,6 +3,8 @@
 <!-- Screenshot of Dashboard -->
 <img width="491" height="599" alt="Screenshot 2026-07-26 at 23 31 41" src="https://github.com/user-attachments/assets/d35ac941-f914-420e-9c60-de4dc3f8e036" />
 
+## Project Overview
+
 <!-- One or two sentences on what this project does and why. -->
 
 This project consists of two parts: a pipeline that trains an **XGBoost** model to flag fraudulent financial transactions, plus a **Streamlit** dashboard for reviewing flagged transactions with **SHAP** explanations. The purpose of the project was to mimic a functional interactive dashboard that an insurance underwriter would use to help decide whether a transaction is fraudulent or not. This was achieved by artifically removing labels on a subset of our public dataset, storing this data in a **SQLite** database and connecting this to our dashboard to allow a user to seamlessly navigate through the transactions, giving them the option to add their own comments before eventually processing the transaction. 
