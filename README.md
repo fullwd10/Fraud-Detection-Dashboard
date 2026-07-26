@@ -6,6 +6,8 @@ This project consists of two parts: a pipeline that trains an **XGBoost** model 
 
 <img width="495" height="586" alt="Screenshot 2026-07-26 at 23 28 24" src="https://github.com/user-attachments/assets/ed76c811-ee68-4cb3-8935-cf0304bb7671" />
 
+<img width="491" height="599" alt="Screenshot 2026-07-26 at 23 31 41" src="https://github.com/user-attachments/assets/d35ac941-f914-420e-9c60-de4dc3f8e036" />
+
 
 ## Project structure
 
