@@ -3,6 +3,9 @@
 <!-- Screenshot of Dashboard -->
 <img width="491" height="599" alt="Screenshot 2026-07-26 at 23 31 41" src="https://github.com/user-attachments/assets/d35ac941-f914-420e-9c60-de4dc3f8e036" />
 
+<img width="493" height="549" alt="Screenshot 2026-07-26 at 23 39 33" src="https://github.com/user-attachments/assets/9c867174-eb0a-4cc7-94c2-8ab3775d370e" />
+
+
 ## Project Overview
 
 <!-- One or two sentences on what this project does and why. -->
