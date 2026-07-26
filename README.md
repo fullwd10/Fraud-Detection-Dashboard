@@ -1,7 +1,7 @@
 # Fraud Detection Dashboard
 
 <!-- Screenshot of Dashboard -->
-<img width="493" height="549" alt="Screenshot 2026-07-26 at 23 39 33" src="https://github.com/user-attachments/assets/9c867174-eb0a-4cc7-94c2-8ab3775d370e" />
+<img width="489" height="548" alt="Screenshot 2026-07-26 at 23 40 51" src="https://github.com/user-attachments/assets/87461c2c-4988-4a3f-9a3f-7de0f3183a1b" />
 
 
 ## Project Overview
